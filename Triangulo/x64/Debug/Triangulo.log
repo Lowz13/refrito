@@ -1,2 +1,3 @@
 ﻿  Triangulo.cpp
+C:\Users\HP Laptop\Documents\programacion\Triangulo\Triangulo\Triangulo.cpp(7,12): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
   Triangulo.vcxproj -> C:\Users\HP Laptop\Documents\programacion\Triangulo\x64\Debug\Triangulo.exe

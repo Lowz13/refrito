@@ -1,11 +1,9 @@
 #include <iostream>
 int main()
 {
-	int a, b, h;
-	printf("altura: ");
-	scanf_s("%i", &h);
-	printf("Base:	");
+	int a, b;
+	printf("Radio:	");
 	scanf_s("%i", &b);
-	a = b * h;
-	printf("El rectangulo de %i x %i tiene area de %-10i", b, h, a );
+	a = (b* b)* 3.1416;
+	printf("El circulo tiene un area de %-10i", a );
 }
